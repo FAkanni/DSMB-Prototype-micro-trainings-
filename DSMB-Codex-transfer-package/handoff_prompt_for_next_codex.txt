@@ -1,0 +1,30 @@
+You are receiving a DSMB guided training prototype transfer package from a prior Codex thread.
+
+Please start by reading TRANSFER_README_FOR_CODEX.md.
+
+Primary goal:
+Continue helping refine, verify, package, or explain the standalone DSMB/ISM/SO guided training prototype in dsmb-training-prototype/.
+
+Important constraints:
+- Keep all data deidentified and synthetic.
+- Do not reintroduce exact names, study IDs, grant IDs, dates, document titles, or emails from production reference material.
+- External visual reference materials were intentionally excluded. Use the existing prototype and written notes as the fidelity reference unless the user provides newly deidentified reference material.
+- The prototype is standalone right now; it is not wired into the larger CROMS application.
+
+How to run:
+cd dsmb-training-prototype
+python3 -m http.server 8765
+Open http://localhost:8765/index.html
+
+Useful checks:
+node --check app.js
+node --check data/trainings.js
+
+Recommended first pass:
+1. Inspect dsmb-training-prototype/index.html, app.js, styles.css, and data/trainings.js.
+2. Open the prototype locally.
+3. Start a few trainings that exercise text input, dropdowns, radios, document review, COI review, and meeting attendance.
+4. Verify highlighted controls do not look greyed out or disabled.
+5. Continue from the user's newest request.
+
+The package also includes docs/ with the workflow catalog, conversation context, collaboration learning guide, and source-code/API discovery notes.

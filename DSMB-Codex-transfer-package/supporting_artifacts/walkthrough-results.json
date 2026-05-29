@@ -1,0 +1,104 @@
+[
+  {
+    "id": "find-entity",
+    "status": "Complete",
+    "guard": 5,
+    "last": "view-ismso"
+  },
+  {
+    "id": "create-entity",
+    "status": "Complete",
+    "guard": 7,
+    "last": "entity-row"
+  },
+  {
+    "id": "add-study",
+    "status": "Complete",
+    "guard": 5,
+    "last": "studies-row-new"
+  },
+  {
+    "id": "add-member",
+    "status": "Complete",
+    "guard": 6,
+    "last": "member-row-new"
+  },
+  {
+    "id": "add-adhoc-member",
+    "status": "Complete",
+    "guard": 6,
+    "last": "adhoc-row-new"
+  },
+  {
+    "id": "create-meeting",
+    "status": "Complete",
+    "guard": 6,
+    "last": "meeting-status"
+  },
+  {
+    "id": "build-agenda",
+    "status": "Complete",
+    "guard": 6,
+    "last": "agenda-row-new"
+  },
+  {
+    "id": "publish-meeting",
+    "status": "Complete",
+    "guard": 7,
+    "last": "meeting-status"
+  },
+  {
+    "id": "run-meeting",
+    "status": "Complete",
+    "guard": 7,
+    "last": "meeting-status"
+  },
+  {
+    "id": "upload-document",
+    "status": "Complete",
+    "guard": 6,
+    "last": "document-row-new"
+  },
+  {
+    "id": "document-review",
+    "status": "Complete",
+    "guard": 6,
+    "last": "document-next-reviewers"
+  },
+  {
+    "id": "workflow-recovery",
+    "status": "Complete",
+    "guard": 7,
+    "last": "document-review-status"
+  },
+  {
+    "id": "report-coi",
+    "status": "Complete",
+    "guard": 11,
+    "last": "document-next-reviewers"
+  },
+  {
+    "id": "submit-coi",
+    "status": "Complete",
+    "guard": 7,
+    "last": "coi-status"
+  },
+  {
+    "id": "review-coi",
+    "status": "Complete",
+    "guard": 7,
+    "last": "coi-review-submit"
+  },
+  {
+    "id": "member-approval",
+    "status": "Complete",
+    "guard": 7,
+    "last": "member-submit"
+  },
+  {
+    "id": "ismso-written-review",
+    "status": "Complete",
+    "guard": 8,
+    "last": "meeting-status"
+  }
+]

@@ -1,0 +1,24 @@
+- generic "Simulated CROMS training screen" [ref=e193] [box=421,173,961,784]:
+  - generic [ref=e1058] [box=421,173,961,784]:
+    - generic [ref=e1061] [box=421,173,961,62]:
+      - generic [ref=e1062] [box=445,181,460,46]:
+        - heading "National Institute on Aging" [level=1] [ref=e1063] [box=445,181,460,24]
+        - heading "Clinical Research Operations & Management System (CROMS)" [level=2] [ref=e1064] [box=445,209,460,18]
+      - button "User Settings" [ref=e1066] [cursor=pointer] [box=1328,189,30,30]: ●
+    - generic [ref=e1068] [box=445,235,913,50]:
+      - generic [ref=e1069] [box=445,235,395,48]:
+        - text: ⌂ Home ›Safety Monitoring Oversight ›
+        - strong [ref=e1070] [box=743,249,93,20]: DSMB Details
+      - button "Full Navigation Menu" [ref=e1072] [cursor=pointer] [box=1323,240,35,38]: ☰
+    - main [ref=e1073] [box=421,285,961,672]:
+      - generic [ref=e1074] [box=421,285,961,640]:
+        - generic [ref=e1075] [box=421,285,961,118]:
+          - generic [ref=e1076] [box=445,293,827,38]
+          - list [ref=e1084] [box=445,349,913,46]
+        - generic [ref=e1090] [box=445,419,913,408]:
+          - generic [ref=e1092] [box=461,419,881,48]
+          - generic [ref=e1096] [box=461,491,881,48]
+          - generic [ref=e1100] [box=461,563,881,48]
+          - generic [ref=e1104] [box=461,635,881,48]
+          - generic [ref=e1108] [box=461,707,881,48]
+          - generic [ref=e1112] [box=461,779,881,48]

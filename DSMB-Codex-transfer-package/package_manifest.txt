@@ -1,0 +1,28 @@
+DSMB-Codex-transfer-package/TRANSFER_README_FOR_CODEX.md
+DSMB-Codex-transfer-package/docs/CROMS_DSMB_bulk_upload_discovery.md
+DSMB-Codex-transfer-package/docs/DSMB_AI_collaboration_learning_guide.docx
+DSMB-Codex-transfer-package/docs/DSMB_AI_collaboration_learning_guide.md
+DSMB-Codex-transfer-package/docs/DSMB_guided_workflow_microtraining_catalog.md
+DSMB-Codex-transfer-package/docs/DSMB_training_conversation_context.md
+DSMB-Codex-transfer-package/dsmb-training-prototype/OPEN_ME_FIRST.txt
+DSMB-Codex-transfer-package/dsmb-training-prototype/README.md
+DSMB-Codex-transfer-package/dsmb-training-prototype/app.js
+DSMB-Codex-transfer-package/dsmb-training-prototype/assets/fonts/SourceSansPro-Bold.woff2
+DSMB-Codex-transfer-package/dsmb-training-prototype/assets/fonts/SourceSansPro-Regular.woff2
+DSMB-Codex-transfer-package/dsmb-training-prototype/assets/fonts/SourceSansPro-Semibold.woff2
+DSMB-Codex-transfer-package/dsmb-training-prototype/assets/images/tiles/Dashboard_Tile_DocManager.png
+DSMB-Codex-transfer-package/dsmb-training-prototype/assets/images/tiles/Dashboard_Tile_Grant Mgr.png
+DSMB-Codex-transfer-package/dsmb-training-prototype/assets/images/tiles/Dashboard_Tile_Study Mgr.png
+DSMB-Codex-transfer-package/dsmb-training-prototype/assets/images/tiles/Dashboard_Tiles_DSMB-ISM-SO.png
+DSMB-Codex-transfer-package/dsmb-training-prototype/data/trainings.js
+DSMB-Codex-transfer-package/dsmb-training-prototype/index.html
+DSMB-Codex-transfer-package/dsmb-training-prototype/styles.css
+DSMB-Codex-transfer-package/handoff_prompt_for_next_codex.txt
+DSMB-Codex-transfer-package/optional/coi-entry-orientation/app.js
+DSMB-Codex-transfer-package/optional/coi-entry-orientation/index.html
+DSMB-Codex-transfer-package/optional/coi-entry-orientation/styles.css
+DSMB-Codex-transfer-package/package_manifest.txt
+DSMB-Codex-transfer-package/supporting_artifacts/dsmb-training-prototype-home.png
+DSMB-Codex-transfer-package/supporting_artifacts/snapshot-details.md
+DSMB-Codex-transfer-package/supporting_artifacts/snapshot-home.md
+DSMB-Codex-transfer-package/supporting_artifacts/walkthrough-results.json

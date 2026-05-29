@@ -1,0 +1,34 @@
+- generic [ref=e2] [box=0,0,1425,1179]:
+  - banner [ref=e3] [box=24,24,1377,174]:
+    - generic [ref=e4] [box=49,53,620,115]:
+      - generic [ref=e5] [box=49,53,620,16]: CROMS DSMB training prototype
+      - heading "Guided Workflow Trainer" [level=1] [ref=e6] [box=49,73,620,40]
+      - paragraph [ref=e7] [box=49,121,620,48]: Practice DSMB and ISM/SO activities in a standalone training environment. Select a module, start the walkthrough, then click the highlighted target to advance.
+    - generic [ref=e8] [box=978,43,398,136]:
+      - generic [ref=e9] [box=995,75,88,72]: DSMB
+      - generic [ref=e11] [box=1139,69,220,85]:
+        - generic [ref=e12] [box=1139,69,106,39]: Meetings
+        - generic [ref=e13] [box=1253,69,106,39]: COI
+        - generic [ref=e14] [box=1139,115,106,39]: Docs
+        - generic [ref=e15] [box=1253,115,106,39]: Members
+  - main [ref=e16] [box=24,216,1377,939]:
+    - complementary "Training modules" [ref=e17] [box=24,216,360,770]:
+      - generic [ref=e18] [box=43,235,307,69]:
+        - heading "Micro-Trainings" [level=2] [ref=e19] [box=43,235,307,25]
+        - paragraph [ref=e20] [box=43,264,307,40]: Standalone modules built from the DSMB workflow map.
+      - generic [ref=e21] [box=43,320,307,3204]:
+        - generic [ref=e22] [box=43,320,307,201]
+        - generic [ref=e32] [box=43,521,307,387]
+        - generic [ref=e50] [box=43,908,307,366]
+        - generic [ref=e68] [box=43,1274,307,703]
+        - generic [ref=e102] [box=43,1978,307,555]
+        - generic [ref=e128] [box=43,2532,307,535]
+        - generic [ref=e154] [box=43,3067,307,238]
+        - generic [ref=e164] [box=43,3306,307,218]
+    - region "Selected training" [ref=e174] [box=402,216,999,939]:
+      - generic [ref=e175] [box=421,235,961,73]:
+        - generic [ref=e176] [box=421,235,506,73]
+        - generic [ref=e186] [box=1076,235,306,38]
+      - generic [ref=e192] [box=1338,324,44,20]: Ready
+      - generic "Simulated CROMS training screen" [ref=e193] [box=421,360,961,776]:
+        - generic [ref=e194] [box=421,360,961,776]

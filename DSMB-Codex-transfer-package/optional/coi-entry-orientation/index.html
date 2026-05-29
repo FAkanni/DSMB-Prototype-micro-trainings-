@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DSMB COI Entry Orientation</title>
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="orientation-shell" aria-label="DSMB COI entry orientation">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">DSMB COI disclosure</p>
+          <h1>Initial COI Entry Orientation</h1>
+        </div>
+        <div class="topbar-actions">
+          <button id="restartButton" class="secondary-button" type="button">Restart</button>
+          <button id="startButton" class="primary-button" type="button">Start</button>
+        </div>
+      </header>
+
+      <section class="experience" aria-live="polite">
+        <div class="stage-wrap">
+          <div class="stage-status">
+            <div id="progressDots" class="progress-dots" aria-label="Slide progress"></div>
+            <span id="stepCounter">1 of 8</span>
+          </div>
+          <div id="visualStage" class="visual-stage"></div>
+        </div>
+
+        <aside class="story-panel">
+          <p id="slideKicker" class="eyebrow">Welcome</p>
+          <h2 id="slideTitle">A clearer first COI entry</h2>
+          <p id="slideBody">
+            A short visual introduction before the initial DSMB Conflict of Interest form helps members understand what they are about to do and why it matters.
+          </p>
+          <div id="talkingPoints" class="talking-points"></div>
+          <div class="nav-row">
+            <button id="prevButton" class="secondary-button" type="button">Back</button>
+            <button id="nextButton" class="primary-button" type="button">Next</button>
+          </div>
+        </aside>
+      </section>
+
+      <nav id="slideRail" class="slide-rail" aria-label="Orientation sections"></nav>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
